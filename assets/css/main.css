@@ -225,7 +225,7 @@ footer {
 .signup-form #mc_embed_signup_scroll {
   display: flex; }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1800px) {
   .signup-form #mc_embed_signup_scroll {
     display: flex;
     flex-wrap: wrap; }
